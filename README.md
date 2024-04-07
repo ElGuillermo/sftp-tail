@@ -1,6 +1,6 @@
 <div align="center">
 
-## ftp-tail
+## sftp-tail
 
 [![GitHub release](https://img.shields.io/github/release/ElGuillermo/sftp-tail.svg?style=flat-square)](https://github.com/ElGuillermo/sftp-tail/releases)
 [![GitHub contributors](https://img.shields.io/github/contributors/ElGuillermo/sftp-tail.svg?style=flat-square)](https://github.com/ElGuillermo/sftp-tail/graphs/contributors)
