@@ -18,7 +18,7 @@
 Need to tail a file on a remote server? sftp-tail should be able to help!
 
 ## **Motivation**
-To collect the data we needed to build [SquadJS](https://github.com/ElGuillermo/SquadJS), a scripting framework for [Squad](https://joinsquad.com/) servers, we found we needed to tail the Squad server's log files. As a result of this, it became a requirement that SquadJS must be installed on the same machine as the Squad server, however, this prevented anyone using rented Squad server instances from using SquadJS. Thus, we endeavoured to make it possible for these logs files to be streamed over the FTP servers provided by most hosts - sftp-tail is the outcome of this and we have opened-sourced it for others to benefit from.
+To collect the data we needed to build [SquadJS](https://github.com/ElGuillermo/SquadJS), a scripting framework for [Squad](https://joinsquad.com/) servers, we found we needed to tail the Squad server's log files. As a result of this, it became a requirement that SquadJS must be installed on the same machine as the Squad server, however, this prevented anyone using rented Squad server instances from using SquadJS. Thus, we endeavoured to make it possible for these logs files to be streamed over the SFTP servers provided by most hosts - sftp-tail is the outcome of this and we have opened-sourced it for others to benefit from.
 
 ## **Usage**
 ```js
